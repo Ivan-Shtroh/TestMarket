@@ -1,5 +1,8 @@
-﻿{
+{
 "criterias": [
-  {"product": "Молоко"}
+{"lastName": "Belova"}, 
+{"product": "Moloko", "countBuy": 2}, 
+{"minPrice": 112, "maxPrice": 4000}, 
+{"countPassiveBuyer": 2}
 ]
 }
