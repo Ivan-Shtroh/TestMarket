@@ -1,0 +1,181 @@
+{
+  "operation" : "stat",
+  "totalDays" : 4,
+  "customers" : [ {
+    "id" : 1,
+    "lastName" : "Belova",
+    "firstName" : "Kristina",
+    "purchases" : [ ]
+  }, {
+    "id" : 2,
+    "lastName" : "Smirnova",
+    "firstName" : "Larisa",
+    "purchases" : [ {
+      "product" : "Bred",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Cookies",
+      "sumExpensesProduct" : 280
+    }, {
+      "product" : "Eggs",
+      "sumExpensesProduct" : 320
+    }, {
+      "product" : "Ham",
+      "sumExpensesProduct" : 800
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 30
+    } ]
+  }, {
+    "id" : 3,
+    "lastName" : "Shtroo",
+    "firstName" : "Ivan",
+    "purchases" : [ {
+      "product" : "Cookies",
+      "sumExpensesProduct" : 140
+    }, {
+      "product" : "Milk",
+      "sumExpensesProduct" : 400
+    }, {
+      "product" : "Broad",
+      "sumExpensesProduct" : 200
+    }, {
+      "product" : "Eggs",
+      "sumExpensesProduct" : 800
+    }, {
+      "product" : "Cheese",
+      "sumExpensesProduct" : 4000
+    }, {
+      "product" : "Sugar",
+      "sumExpensesProduct" : 200
+    }, {
+      "product" : "Bred",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 30
+    }, {
+      "product" : "Ham",
+      "sumExpensesProduct" : 800
+    } ]
+  }, {
+    "id" : 4,
+    "lastName" : "Shtroo",
+    "firstName" : "Valeria",
+    "purchases" : [ {
+      "product" : "Sugar",
+      "sumExpensesProduct" : 100
+    }, {
+      "product" : "Bred",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Milk",
+      "sumExpensesProduct" : 100
+    }, {
+      "product" : "Broad",
+      "sumExpensesProduct" : 200
+    }, {
+      "product" : "Ham",
+      "sumExpensesProduct" : 800
+    } ]
+  }, {
+    "id" : 5,
+    "lastName" : "Otrubyannikova",
+    "firstName" : "Galina",
+    "purchases" : [ {
+      "product" : "Eggs",
+      "sumExpensesProduct" : 320
+    }, {
+      "product" : "Cheese",
+      "sumExpensesProduct" : 1600
+    }, {
+      "product" : "Bred",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Milk",
+      "sumExpensesProduct" : 100
+    }, {
+      "product" : "Broad",
+      "sumExpensesProduct" : 200
+    } ]
+  }, {
+    "id" : 6,
+    "lastName" : "Ivanov",
+    "firstName" : "Ivan",
+    "purchases" : [ {
+      "product" : "Cheese",
+      "sumExpensesProduct" : 800
+    }, {
+      "product" : "Sugar",
+      "sumExpensesProduct" : 300
+    }, {
+      "product" : "Bred",
+      "sumExpensesProduct" : 120
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Broad",
+      "sumExpensesProduct" : 200
+    }, {
+      "product" : "Ham",
+      "sumExpensesProduct" : 400
+    } ]
+  }, {
+    "id" : 7,
+    "lastName" : "Smirnov",
+    "firstName" : "Semyon",
+    "purchases" : [ {
+      "product" : "Eggs",
+      "sumExpensesProduct" : 320
+    }, {
+      "product" : "Cheese",
+      "sumExpensesProduct" : 1600
+    }, {
+      "product" : "Sugar",
+      "sumExpensesProduct" : 200
+    }, {
+      "product" : "Bred",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Salt",
+      "sumExpensesProduct" : 60
+    }, {
+      "product" : "Ham",
+      "sumExpensesProduct" : 1200
+    } ]
+  }, {
+    "id" : 8,
+    "lastName" : "Pupkin",
+    "firstName" : "Vasya",
+    "purchases" : [ {
+      "product" : "Cookies",
+      "sumExpensesProduct" : 140
+    }, {
+      "product" : "Cheese",
+      "sumExpensesProduct" : 800
+    }, {
+      "product" : "Sugar",
+      "sumExpensesProduct" : 100
+    }, {
+      "product" : "Milk",
+      "sumExpensesProduct" : 400
+    }, {
+      "product" : "Broad",
+      "sumExpensesProduct" : 200
+    } ]
+  }, {
+    "id" : 9,
+    "lastName" : "Ivanova",
+    "firstName" : "Maria",
+    "purchases" : [ ]
+  } ],
+  "totalExpenses" : 18740.00,
+  "avgExpenses" : 2082.22
+}
